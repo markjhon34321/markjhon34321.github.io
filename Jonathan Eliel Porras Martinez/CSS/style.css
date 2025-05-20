@@ -1,0 +1,29 @@
+body,html{
+background-color:lightyellow; /*Color de fondo*/
+font-family: "Lucida Console", Courier, monospace; /*Tipo de fuente a utilizar*/
+font-style: italic; /*Cambia el estilo de la letra*/
+height: 100%; /* Establece la altura */
+align-content: center;
+}
+body{
+	border: solid orange 20px; /*añade un borde*/
+}
+h1{
+font-size: 40px; 
+text-align: center; /*Centra el texto*/
+color: darkgreen; /*Color del titulo*/
+}
+h2{
+text-align:center; 
+color: #87ceet; /*Color del titulo*/
+}
+h3{
+	text-align:center; 
+	color: #87ceet; /*Color del titulo*/
+}
+p{
+color:red; /*Color de la letra*/
+font-size:20px; /*Se cambia el tamaño de la letra*/
+text-align:center; 
+line-height:0.4; /*Espacio entre lineas*/
+}
